@@ -1,0 +1,13 @@
+{
+  "id": "nooksack-2021-11",
+  "name": "Nooksack River flood, November 2021 (Whatcom County, Washington)",
+  "bbox": [-122.75, 48.70, -122.15, 49.005],
+  "track": 13,
+  "pre": ["20210905", "20210917", "20210929", "20211011", "20211023", "20211104"],
+  "post": "20211116",
+  "moment": "2021-11-16T14:20Z (06:20 PST), Sentinel-1B, near the peak at Ferndale",
+  "county": {"state": "53", "name": "Whatcom", "dfirm": "53073"},
+  "towns": {"Everson": [-122.343, 48.920], "Nooksack": [-122.322, 48.928], "Sumas": [-122.265, 48.999],
+            "Lynden": [-122.452, 48.946], "Ferndale": [-122.592, 48.847]},
+  "zoom": [-122.42, 48.88, -122.24, 49.005]
+}

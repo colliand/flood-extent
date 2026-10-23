@@ -1,0 +1,62 @@
+{
+  "event": "Nooksack River flood, November 2021 (Whatcom County, Washington)",
+  "moment": "2021-11-16T14:20Z (06:20 PST), Sentinel-1B, near the peak at Ferndale",
+  "acres": 8600.0,
+  "acres_range": [
+    6500.0,
+    10200.0
+  ],
+  "km2": 34.6,
+  "steps_acres": {
+    "dark on the flood date": 26015,
+    "and 3 dB darker than normal": 16314,
+    "and not permanent water": 8816,
+    "and less than 10 m above a stream": 8804,
+    "and in patches of 0.5 ha or more": 8557
+  },
+  "sensitivity_acres": {
+    "water_db": {
+      "-19.0": 6500.0,
+      "-17.0": 10200.0
+    },
+    "change_db": {
+      "-2.0": 8600.0,
+      "-4.0": 8500.0
+    },
+    "hand_max_m": {
+      "5.0": 8500.0,
+      "15.0": 8600.0
+    },
+    "min_patch_px": {
+      "10": 8800.0,
+      "200": 8000.0
+    }
+  },
+  "method": {
+    "water_db": -18.0,
+    "change_db": -3.0,
+    "hand_max_m": 10.0,
+    "min_patch_ha": 0.5,
+    "permanent_water": "dark on any pre-flood date, or JRC occurrence >= 50%",
+    "speckle": "5x5 median",
+    "pre_dates": [
+      "20210905",
+      "20210917",
+      "20210929",
+      "20211011",
+      "20211023",
+      "20211104"
+    ],
+    "post_date": "20211116",
+    "track": 13,
+    "range_water_db": [
+      -19.0,
+      -17.0
+    ]
+  },
+  "caveats": [
+    "Open water only: water among buildings and under trees is missed by radar.",
+    "One moment: water had drained from some places and was still rising in others.",
+    "Not FEMA's or the county's map, and not for decisions about a property."
+  ]
+}

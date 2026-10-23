@@ -1,0 +1,42 @@
+{
+  "share_in_fema_zones_pct": {
+    "floodway": 37.5,
+    "coastal": 0.0,
+    "high": 52.4,
+    "moderate": 1.5
+  },
+  "share_in_any_studied_zone_pct": 91.4,
+  "open_water_within_2km_of_town_pct": {
+    "Everson": 3.8,
+    "Nooksack": 5.1,
+    "Sumas": 6.8,
+    "Lynden": 12.0,
+    "Ferndale": 8.8
+  },
+  "towns": {
+    "Everson": [
+      -122.343,
+      48.92
+    ],
+    "Nooksack": [
+      -122.322,
+      48.928
+    ],
+    "Sumas": [
+      -122.265,
+      48.999
+    ],
+    "Lynden": [
+      -122.452,
+      48.946
+    ],
+    "Ferndale": [
+      -122.592,
+      48.847
+    ]
+  },
+  "fema": {
+    "source": "FEMA National Flood Hazard Layer (effective), layer 28",
+    "url": "https://hazards.fema.gov/arcgis/rest/services/public/NFHL/MapServer/28"
+  }
+}

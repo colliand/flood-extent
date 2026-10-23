@@ -1,0 +1,112 @@
+{
+  "grid": {
+    "crs": "EPSG:32610",
+    "transform": [
+      10.0,
+      0.0,
+      518280.0,
+      0.0,
+      -10.0,
+      5428360.0
+    ],
+    "shape": [
+      3422,
+      4426
+    ],
+    "pixel_m": 10
+  },
+  "sentinel1_rtc": [
+    {
+      "id": "S1B_IW_GRDH_1SDV_20210905T142056_20210905T142121_028564_0368A1_rtc",
+      "date": "20210905",
+      "fetched": "2026-10-23T21:00+00:00",
+      "url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-1-rtc/items/S1B_IW_GRDH_1SDV_20210905T142056_20210905T142121_028564_0368A1_rtc"
+    },
+    {
+      "id": "S1B_IW_GRDH_1SDV_20210905T142031_20210905T142056_028564_0368A1_rtc",
+      "date": "20210905",
+      "fetched": "2026-10-23T21:01+00:00",
+      "url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-1-rtc/items/S1B_IW_GRDH_1SDV_20210905T142031_20210905T142056_028564_0368A1_rtc"
+    },
+    {
+      "id": "S1B_IW_GRDH_1SDV_20210917T142056_20210917T142121_028739_036DFE_rtc",
+      "date": "20210917",
+      "fetched": "2026-10-23T21:05+00:00",
+      "url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-1-rtc/items/S1B_IW_GRDH_1SDV_20210917T142056_20210917T142121_028739_036DFE_rtc"
+    },
+    {
+      "id": "S1B_IW_GRDH_1SDV_20210917T142031_20210917T142056_028739_036DFE_rtc",
+      "date": "20210917",
+      "fetched": "2026-10-23T21:06+00:00",
+      "url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-1-rtc/items/S1B_IW_GRDH_1SDV_20210917T142031_20210917T142056_028739_036DFE_rtc"
+    },
+    {
+      "id": "S1B_IW_GRDH_1SDV_20210929T142056_20210929T142121_028914_037360_rtc",
+      "date": "20210929",
+      "fetched": "2026-10-23T21:11+00:00",
+      "url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-1-rtc/items/S1B_IW_GRDH_1SDV_20210929T142056_20210929T142121_028914_037360_rtc"
+    },
+    {
+      "id": "S1B_IW_GRDH_1SDV_20210929T142031_20210929T142056_028914_037360_rtc",
+      "date": "20210929",
+      "fetched": "2026-10-23T21:12+00:00",
+      "url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-1-rtc/items/S1B_IW_GRDH_1SDV_20210929T142031_20210929T142056_028914_037360_rtc"
+    },
+    {
+      "id": "S1B_IW_GRDH_1SDV_20211011T142057_20211011T142122_029089_03789C_rtc",
+      "date": "20211011",
+      "fetched": "2026-10-23T21:16+00:00",
+      "url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-1-rtc/items/S1B_IW_GRDH_1SDV_20211011T142057_20211011T142122_029089_03789C_rtc"
+    },
+    {
+      "id": "S1B_IW_GRDH_1SDV_20211011T142032_20211011T142057_029089_03789C_rtc",
+      "date": "20211011",
+      "fetched": "2026-10-23T21:17+00:00",
+      "url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-1-rtc/items/S1B_IW_GRDH_1SDV_20211011T142032_20211011T142057_029089_03789C_rtc"
+    },
+    {
+      "id": "S1B_IW_GRDH_1SDV_20211023T142057_20211023T142122_029264_037E08_rtc",
+      "date": "20211023",
+      "fetched": "2026-10-23T21:22+00:00",
+      "url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-1-rtc/items/S1B_IW_GRDH_1SDV_20211023T142057_20211023T142122_029264_037E08_rtc"
+    },
+    {
+      "id": "S1B_IW_GRDH_1SDV_20211023T142032_20211023T142057_029264_037E08_rtc",
+      "date": "20211023",
+      "fetched": "2026-10-23T21:23+00:00",
+      "url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-1-rtc/items/S1B_IW_GRDH_1SDV_20211023T142032_20211023T142057_029264_037E08_rtc"
+    },
+    {
+      "id": "S1B_IW_GRDH_1SDV_20211104T142056_20211104T142121_029439_038363_rtc",
+      "date": "20211104",
+      "fetched": "2026-10-23T21:28+00:00",
+      "url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-1-rtc/items/S1B_IW_GRDH_1SDV_20211104T142056_20211104T142121_029439_038363_rtc"
+    },
+    {
+      "id": "S1B_IW_GRDH_1SDV_20211104T142031_20211104T142056_029439_038363_rtc",
+      "date": "20211104",
+      "fetched": "2026-10-23T21:28+00:00",
+      "url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-1-rtc/items/S1B_IW_GRDH_1SDV_20211104T142031_20211104T142056_029439_038363_rtc"
+    },
+    {
+      "id": "S1B_IW_GRDH_1SDV_20211116T142056_20211116T142121_029614_0388BC_rtc",
+      "date": "20211116",
+      "fetched": "2026-10-23T21:33+00:00",
+      "url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-1-rtc/items/S1B_IW_GRDH_1SDV_20211116T142056_20211116T142121_029614_0388BC_rtc"
+    },
+    {
+      "id": "S1B_IW_GRDH_1SDV_20211116T142031_20211116T142056_029614_0388BC_rtc",
+      "date": "20211116",
+      "fetched": "2026-10-23T21:33+00:00",
+      "url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-1-rtc/items/S1B_IW_GRDH_1SDV_20211116T142031_20211116T142056_029614_0388BC_rtc"
+    }
+  ],
+  "hand": {
+    "url": "https://glo-30-hand.s3.amazonaws.com/",
+    "fetched": "2026-10-23T21:34+00:00"
+  },
+  "jrc_occurrence": {
+    "url": "https://ai4edataeuwest.blob.core.windows.net/jrcglobalwater/occurrence/occurrence_130W_50Nv1_3_2020cog.tif",
+    "fetched": "2026-10-23T21:34+00:00"
+  }
+}
